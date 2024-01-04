@@ -1,3 +1,2 @@
 - Boas vindas ao meu espaço no GitHub 👋
-- Sou Michaella, graduanda em Ciência de Dados e estudante Java cursando especialização em Tecnologia Java pela Universidade Tecnológica Federal do Paraná (UTFPR) ☕
-- Fique a vontade para visitar os meus repositórios e volte sempre!
+
